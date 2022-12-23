@@ -54,6 +54,11 @@ ul li {
 header address ul {
     font-style: normal;
     list-style: none;
+
+}
+address{
+    width: 500px;
+    margin-top: 40px;
 }
 
 .address-line-item {
