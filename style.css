@@ -79,6 +79,22 @@ address{
     border-radius: 12px;
 }
 
+.address-line-click-to-map{
+    text-decoration: none;
+}
+
+.education-link-to-website-logistics{
+    text-decoration: none;
+}
+
+.education-link-to-website-engineering{
+    text-decoration: none;
+}
+
+.education-link-to-website-it{
+    text-decoration: none;
+}
+
 .circle {
     border-radius: 50%;
 }
